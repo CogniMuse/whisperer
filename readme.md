@@ -1,6 +1,6 @@
-### Whisper App
+### Whisperify
 
-Whisper App is a Python tool that leverages the OpenAI Whisper ASR (Automatic Speech Recognition) system to transcribe audio files. This README provides instructions on setting up the tool and using it effectively.
+Whisperify is a Python tool that leverages the OpenAI Whisper ASR (Automatic Speech Recognition) system to transcribe audio files. This README provides instructions on setting up the tool and using it effectively.
 
 #### Setup
 
